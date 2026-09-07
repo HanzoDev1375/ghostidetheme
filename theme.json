@@ -5,8 +5,8 @@
     "image2": "car/img2.jpg",
     "image3": "car/img3.jpg",
     "icon": "car/wallpaper.png",
-    "doc": "",
-    "version": 5,
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/readme.md",
+    "version": 6,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/car.gth"
   },
@@ -16,8 +16,8 @@
     "image2": "girlblue/img2.jpg",
     "image3": "girlblue/img3.jpg",
     "icon": "girlblue/wallpaper.jpg",
-    "doc": "",
-    "version": 5,
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girlblue/readme.md",
+    "version": 6,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girlblue/girlblue.gth"
   },
@@ -27,8 +27,8 @@
     "image2": "girltheme/img2.jpg",
     "image3": "girltheme/img3.jpg",
     "icon": "girltheme/backgeound.png",
-    "doc": "",
-    "version": 5,
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girltheme/readme.md",
+    "version": 6,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girltheme/girltheme.gth"
   }

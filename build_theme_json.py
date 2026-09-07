@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """بر اساس نام هر تم (پوشه)، داده‌های آن را می‌خواند و در theme.json ذخیره می‌کند."""
+
 import os
 import re
 import json
@@ -15,7 +16,13 @@ IMG1_NAME = "img1.jpg"
 IMG2_NAME = "img2.jpg"
 IMG3_NAME = "img3.jpg"
 
-WALLPAPER_NAMES = ["wallpaper.png", "wallpaper.jpg", "backgeound.png", "background.png", "backgeound.jpg"]
+WALLPAPER_NAMES = [
+    "wallpaper.png",
+    "wallpaper.jpg",
+    "backgeound.png",
+    "background.png",
+    "backgeound.jpg",
+]
 
 
 def find_wallpaper(folder_path):
@@ -25,7 +32,9 @@ def find_wallpaper(folder_path):
         if os.path.isfile(path):
             return name
     for fname in sorted(os.listdir(folder_path)):
-        if fname.lower().startswith("wallpaper") or fname.lower().startswith("backgeound"):
+        if fname.lower().startswith("wallpaper") or fname.lower().startswith(
+            "backgeound"
+        ):
             return fname
     return ""
 
@@ -101,10 +110,14 @@ def main():
             "image2": os.path.join(folder, IMG2_NAME),
             "image3": os.path.join(folder, IMG3_NAME),
             "icon": os.path.join(folder, wallpaper) if wallpaper else "",
-            "doc": gth_download_link(os.path.join(folder, doc_name)) if doc_name else "",
+            "doc": gth_download_link(os.path.join(folder, doc_name))
+            if doc_name
+            else "",
             "version": version,
             "devname": "ghost",
-            "linkdownload": gth_download_link(os.path.join(folder, gth_name)) if gth_name else "",
+            "linkdownload": gth_download_link(os.path.join(folder, gth_name))
+            if gth_name
+            else "",
         }
         result.append(entry)
 
