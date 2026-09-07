@@ -6,7 +6,7 @@
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/img3.jpg",
     "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/wallpaper.png",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/readme.md",
-    "version": 12,
+    "version": 13,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/car.gth"
   },
@@ -17,7 +17,7 @@
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girlblue/img3.jpg",
     "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girlblue/wallpaper.jpg",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girlblue/readme.md",
-    "version": 12,
+    "version": 13,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girlblue/girlblue.gth"
   },
@@ -28,18 +28,18 @@
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girltheme/img3.jpg",
     "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girltheme/backgeound.png",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girltheme/readme.md",
-    "version": 12,
+    "version": 13,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girltheme/girltheme.gth"
   },
   {
     "name": "ninja",
-    "image1": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/ninja/wallpaper.png",
-    "image2": "",
-    "image3": "",
+    "image1": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/ninja/img1.jpg",
+    "image2": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/ninja/img2.jpg",
+    "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/ninja/img3.jpg",
     "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/ninja/wallpaper.png",
-    "doc": "",
-    "version": 6,
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/ninja/readme.md",
+    "version": 7,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/ninja/ninja.gth"
   }

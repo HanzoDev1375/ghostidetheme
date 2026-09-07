@@ -137,7 +137,9 @@ def main():
         version = autoversion(old.get("version", 0))
 
         raw_images = find_raw_images(folder_path)[:3]
-        imgs = [gth_download_link(os.path.join(folder, n)) if n else "" for n in raw_images]
+        imgs = [
+            gth_download_link(os.path.join(folder, n)) if n else "" for n in raw_images
+        ]
         imgs += [""] * (3 - len(imgs))
 
         entry = {
