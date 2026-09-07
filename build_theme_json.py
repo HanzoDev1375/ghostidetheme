@@ -24,6 +24,8 @@ WALLPAPER_NAMES = [
     "backgeound.jpg",
 ]
 
+IMG_EXTENSIONS = (".jpg", ".jpeg", ".png", ".webp", ".gif")
+
 
 def find_wallpaper(folder_path):
     """تصویر پس‌زمینه (icon) را داخل پوشه پیدا می‌کند."""
@@ -37,6 +39,36 @@ def find_wallpaper(folder_path):
         ):
             return fname
     return ""
+
+
+def find_raw_images(folder_path):
+    """عکس‌های خام (raw) واقعاً موجود در پوشه را پیدا می‌کند.
+
+    ابتدا نام‌های استاندارد (img1/img2/img3) بررسی می‌شوند؛ اگر نبودند،
+    هر تصویر دیگری که wallpaper/background نباشد انتخاب می‌شود. اگر باز
+    هم تصویری پیدا نشد، از wallpaper استفاده می‌شود تا لینکی به فایلی
+    که وجود ندارد (raw) ساخته نشود.
+    """
+    images = []
+    for name in (IMG1_NAME, IMG2_NAME, IMG3_NAME):
+        if os.path.isfile(os.path.join(folder_path, name)):
+            images.append(name)
+
+    wallpaper = find_wallpaper(folder_path)
+    if not images:
+        for fname in sorted(os.listdir(folder_path)):
+            if not fname.lower().endswith(IMG_EXTENSIONS):
+                continue
+            if fname == wallpaper:
+                continue
+            if fname.lower().startswith(("wallpaper", "backgeound", "background")):
+                continue
+            images.append(fname)
+
+    if not images and wallpaper:
+        images.append(wallpaper)
+
+    return images
 
 
 def find_gth(folder_path):
@@ -104,12 +136,18 @@ def main():
         old = previous.get(folder, {})
         version = autoversion(old.get("version", 0))
 
+        raw_images = find_raw_images(folder_path)[:3]
+        imgs = [gth_download_link(os.path.join(folder, n)) if n else "" for n in raw_images]
+        imgs += [""] * (3 - len(imgs))
+
         entry = {
             "name": folder,
-            "image1": os.path.join(folder, IMG1_NAME),
-            "image2": os.path.join(folder, IMG2_NAME),
-            "image3": os.path.join(folder, IMG3_NAME),
-            "icon": os.path.join(folder, wallpaper) if wallpaper else "",
+            "image1": imgs[0],
+            "image2": imgs[1],
+            "image3": imgs[2],
+            "icon": gth_download_link(os.path.join(folder, wallpaper))
+            if wallpaper
+            else "",
             "doc": gth_download_link(os.path.join(folder, doc_name))
             if doc_name
             else "",
