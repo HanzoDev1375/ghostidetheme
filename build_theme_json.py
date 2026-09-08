@@ -15,6 +15,7 @@ REPO_BRANCH = "main"
 IMG1_NAME = "img1.jpg"
 IMG2_NAME = "img2.jpg"
 IMG3_NAME = "img3.jpg"
+ICON_NAME = "icon.png"
 
 WALLPAPER_NAMES = [
     "wallpaper.png",
@@ -27,8 +28,16 @@ WALLPAPER_NAMES = [
 IMG_EXTENSIONS = (".jpg", ".jpeg", ".png", ".webp", ".gif")
 
 
+def find_icon(folder_path):
+    """فایل icon.png را داخل پوشه پیدا می‌کند."""
+    path = os.path.join(folder_path, ICON_NAME)
+    if os.path.isfile(path):
+        return ICON_NAME
+    return ""
+
+
 def find_wallpaper(folder_path):
-    """تصویر پس‌زمینه (icon) را داخل پوشه پیدا می‌کند."""
+    """تصویر پس‌زمینه (wallpaper) را داخل پوشه پیدا می‌کند."""
     for name in WALLPAPER_NAMES:
         path = os.path.join(folder_path, name)
         if os.path.isfile(path):
@@ -130,6 +139,7 @@ def main():
             continue
 
         wallpaper = find_wallpaper(folder_path)
+        icon_name = find_icon(folder_path)
         gth_name = find_gth(folder_path)
         doc_name = find_doc(folder_path)
 
@@ -147,7 +157,9 @@ def main():
             "image1": imgs[0],
             "image2": imgs[1],
             "image3": imgs[2],
-            "icon": gth_download_link(os.path.join(folder, wallpaper))
+            "icon": gth_download_link(os.path.join(folder, icon_name))
+            if icon_name
+            else gth_download_link(os.path.join(folder, wallpaper))
             if wallpaper
             else "",
             "doc": gth_download_link(os.path.join(folder, doc_name))

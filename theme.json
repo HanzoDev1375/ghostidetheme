@@ -4,9 +4,9 @@
     "image1": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/img1.jpg",
     "image2": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/img2.jpg",
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/img3.jpg",
-    "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/wallpaper.png",
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/icon.png",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/readme.md",
-    "version": 13,
+    "version": 15,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/car.gth"
   },
@@ -15,9 +15,9 @@
     "image1": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girlblue/img1.jpg",
     "image2": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girlblue/img2.jpg",
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girlblue/img3.jpg",
-    "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girlblue/wallpaper.jpg",
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girlblue/icon.png",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girlblue/readme.md",
-    "version": 13,
+    "version": 15,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girlblue/girlblue.gth"
   },
@@ -26,9 +26,9 @@
     "image1": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girltheme/img1.jpg",
     "image2": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girltheme/img2.jpg",
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girltheme/img3.jpg",
-    "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girltheme/backgeound.png",
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girltheme/icon.png",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girltheme/readme.md",
-    "version": 13,
+    "version": 15,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girltheme/girltheme.gth"
   },
@@ -39,7 +39,7 @@
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/ninja/img3.jpg",
     "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/ninja/wallpaper.png",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/ninja/readme.md",
-    "version": 7,
+    "version": 9,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/ninja/ninja.gth"
   }
