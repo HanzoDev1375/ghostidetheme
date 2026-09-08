@@ -1,14 +1,58 @@
 [
   {
+    "name": "blue",
+    "image1": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/blue/img1.jpg",
+    "image2": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/blue/img2.jpg",
+    "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/blue/img3.jpg",
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/blue/icon.png",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/blue/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/blue/blue.gth"
+  },
+  {
     "name": "car",
     "image1": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/img1.jpg",
     "image2": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/img2.jpg",
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/img3.jpg",
     "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/icon.png",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/readme.md",
-    "version": 16,
+    "version": 17,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/car.gth"
+  },
+  {
+    "name": "deepforest",
+    "image1": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/deepforest/img1.jpg",
+    "image2": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/deepforest/img2.jpg",
+    "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/deepforest/img3.jpg",
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/deepforest/icon.png",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/deepforest/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/deepforest/deepforest.gth"
+  },
+  {
+    "name": "dracula",
+    "image1": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/dracula/img1.jpg",
+    "image2": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/dracula/img2.jpg",
+    "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/dracula/img3.jpg",
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/dracula/icon.png",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/dracula/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/dracula/dracula.gth"
+  },
+  {
+    "name": "frostbite",
+    "image1": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/frostbite/img1.jpg",
+    "image2": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/frostbite/img2.jpg",
+    "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/frostbite/img3.jpg",
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/frostbite/icon.png",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/frostbite/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/frostbite/Frostbite.gth"
   },
   {
     "name": "girlblue",
@@ -17,7 +61,7 @@
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girlblue/img3.jpg",
     "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girlblue/icon.png",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girlblue/readme.md",
-    "version": 16,
+    "version": 17,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girlblue/girlblue.gth"
   },
@@ -28,7 +72,7 @@
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girltheme/img3.jpg",
     "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girltheme/icon.png",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girltheme/readme.md",
-    "version": 16,
+    "version": 17,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girltheme/girltheme.gth"
   },
@@ -39,8 +83,52 @@
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/ninja/img3.jpg",
     "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/ninja/icon.png",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/ninja/readme.md",
-    "version": 10,
+    "version": 11,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/ninja/ninja.gth"
+  },
+  {
+    "name": "pumpkin-spice",
+    "image1": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/pumpkin-spice/img1.jpg",
+    "image2": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/pumpkin-spice/img2.jpg",
+    "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/pumpkin-spice/img3.jpg",
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/pumpkin-spice/icon.png",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/pumpkin-spice/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/pumpkin-spice/Pumpkin Spice.gth"
+  },
+  {
+    "name": "sakura",
+    "image1": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/sakura/img1.jpg",
+    "image2": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/sakura/img2.jpg",
+    "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/sakura/img3.jpg",
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/sakura/icon.png",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/sakura/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/sakura/Sakura.gth"
+  },
+  {
+    "name": "synthwave",
+    "image1": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/synthwave/img1.jpg",
+    "image2": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/synthwave/img2.jpg",
+    "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/synthwave/img3.jpg",
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/synthwave/icon.png",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/synthwave/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/synthwave/SynthWave.gth"
+  },
+  {
+    "name": "tokyo-night",
+    "image1": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/tokyo-night/img1.jpg",
+    "image2": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/tokyo-night/img2.jpg",
+    "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/tokyo-night/img3.jpg",
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/tokyo-night/icon.png",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/tokyo-night/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/tokyo-night/Tokyo Night.gth"
   }
 ]
