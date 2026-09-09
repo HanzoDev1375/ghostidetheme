@@ -350,5 +350,85 @@
     "version": 2,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/vscode-dark/vscode-dark.gth"
+  },
+  {
+    "name": "noctis",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/noctis/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/noctis/noctis.gth"
+  },
+  {
+    "name": "2077",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/2077/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/2077/2077.gth"
+  },
+  {
+    "name": "city-lights",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/city-lights/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/city-lights/city-lights.gth"
+  },
+  {
+    "name": "bluloco-dark",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/bluloco-dark/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/bluloco-dark/bluloco-dark.gth"
+  },
+  {
+    "name": "winter-is-coming",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/winter-is-coming/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/winter-is-coming/winter-is-coming.gth"
+  },
+  {
+    "name": "snazzy",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/snazzy/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/snazzy/snazzy.gth"
+  },
+  {
+    "name": "noctis-lux",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/noctis-lux/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/noctis-lux/noctis-lux.gth"
+  },
+  {
+    "name": "tokyo-night-day",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/tokyo-night-day/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/tokyo-night-day/tokyo-night-day.gth"
+  },
+  {
+    "name": "bluloco-light",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/bluloco-light/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/bluloco-light/bluloco-light.gth"
+  },
+  {
+    "name": "light-owl",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/light-owl/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/light-owl/light-owl.gth"
   }
 ]
