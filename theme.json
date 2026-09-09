@@ -1,12 +1,45 @@
 [
   {
+    "name": "1984",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/1984/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/1984/1984.gth"
+  },
+  {
+    "name": "andromeda",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/andromeda/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/andromeda/andromeda.gth"
+  },
+  {
+    "name": "ayu-mirage",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/ayu-mirage/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/ayu-mirage/ayu-mirage.gth"
+  },
+  {
     "name": "blue",
     "image1": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/blue/img1.jpg",
     "image2": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/blue/img2.jpg",
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/blue/img3.jpg",
     "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/blue/icon.png",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/blue/readme.md",
-    "version": 1,
+    "version": 2,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/blue/blue.gth"
   },
@@ -17,9 +50,42 @@
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/img3.jpg",
     "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/icon.png",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/readme.md",
-    "version": 17,
+    "version": 18,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/car/car.gth"
+  },
+  {
+    "name": "catppuccin-mocha",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/catppuccin-mocha/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/catppuccin-mocha/catppuccin-mocha.gth"
+  },
+  {
+    "name": "cobalt2",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/cobalt2/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/cobalt2/cobalt2.gth"
+  },
+  {
+    "name": "darcula",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/darcula/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/darcula/darcula.gth"
   },
   {
     "name": "deepforest",
@@ -28,9 +94,20 @@
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/deepforest/img3.jpg",
     "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/deepforest/icon.png",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/deepforest/readme.md",
-    "version": 1,
+    "version": 2,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/deepforest/deepforest.gth"
+  },
+  {
+    "name": "doom-one",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/doom-one/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/doom-one/doom-one.gth"
   },
   {
     "name": "dracula",
@@ -39,9 +116,20 @@
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/dracula/img3.jpg",
     "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/dracula/icon.png",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/dracula/readme.md",
-    "version": 1,
+    "version": 2,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/dracula/dracula.gth"
+  },
+  {
+    "name": "everforest",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/everforest/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/everforest/everforest.gth"
   },
   {
     "name": "frostbite",
@@ -50,7 +138,7 @@
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/frostbite/img3.jpg",
     "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/frostbite/icon.png",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/frostbite/readme.md",
-    "version": 1,
+    "version": 2,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/frostbite/Frostbite.gth"
   },
@@ -61,7 +149,7 @@
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girlblue/img3.jpg",
     "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girlblue/icon.png",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girlblue/readme.md",
-    "version": 17,
+    "version": 18,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girlblue/girlblue.gth"
   },
@@ -72,9 +160,141 @@
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girltheme/img3.jpg",
     "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girltheme/icon.png",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girltheme/readme.md",
-    "version": 17,
+    "version": 18,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/girltheme/girltheme.gth"
+  },
+  {
+    "name": "github-dark",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/github-dark/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/github-dark/github-dark.gth"
+  },
+  {
+    "name": "github-light",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/github-light/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/github-light/github-light.gth"
+  },
+  {
+    "name": "gruvbox",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/gruvbox/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/gruvbox/gruvbox.gth"
+  },
+  {
+    "name": "high-contrast",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/high-contrast/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/high-contrast/high-contrast.gth"
+  },
+  {
+    "name": "horizon",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/horizon/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/horizon/horizon.gth"
+  },
+  {
+    "name": "lucario",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/lucario/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/lucario/lucario.gth"
+  },
+  {
+    "name": "mariana",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/mariana/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/mariana/mariana.gth"
+  },
+  {
+    "name": "material-dark",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/material-dark/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/material-dark/material-dark.gth"
+  },
+  {
+    "name": "matrix",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/matrix/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/matrix/matrix.gth"
+  },
+  {
+    "name": "monokai",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/monokai/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/monokai/monokai.gth"
+  },
+  {
+    "name": "monokai-pro",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/monokai-pro/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/monokai-pro/monokai-pro.gth"
+  },
+  {
+    "name": "night-owl",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/night-owl/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/night-owl/night-owl.gth"
   },
   {
     "name": "ninja",
@@ -83,9 +303,86 @@
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/ninja/img3.jpg",
     "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/ninja/icon.png",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/ninja/readme.md",
-    "version": 11,
+    "version": 12,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/ninja/ninja.gth"
+  },
+  {
+    "name": "nord",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/nord/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/nord/nord.gth"
+  },
+  {
+    "name": "oceanic-next",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/oceanic-next/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/oceanic-next/oceanic-next.gth"
+  },
+  {
+    "name": "one-dark",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/one-dark/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/one-dark/one-dark.gth"
+  },
+  {
+    "name": "one-light",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/one-light/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/one-light/one-light.gth"
+  },
+  {
+    "name": "palenight",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/palenight/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/palenight/palenight.gth"
+  },
+  {
+    "name": "panda-syntax",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/panda-syntax/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/panda-syntax/panda-syntax.gth"
+  },
+  {
+    "name": "papercolor-light",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/papercolor-light/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/papercolor-light/papercolor-light.gth"
   },
   {
     "name": "pumpkin-spice",
@@ -94,9 +391,20 @@
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/pumpkin-spice/img3.jpg",
     "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/pumpkin-spice/icon.png",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/pumpkin-spice/readme.md",
-    "version": 1,
+    "version": 2,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/pumpkin-spice/Pumpkin Spice.gth"
+  },
+  {
+    "name": "rose-pine",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/rose-pine/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/rose-pine/rose-pine.gth"
   },
   {
     "name": "sakura",
@@ -105,9 +413,42 @@
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/sakura/img3.jpg",
     "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/sakura/icon.png",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/sakura/readme.md",
-    "version": 1,
+    "version": 2,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/sakura/Sakura.gth"
+  },
+  {
+    "name": "shades-of-purple",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/shades-of-purple/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/shades-of-purple/shades-of-purple.gth"
+  },
+  {
+    "name": "solarized-dark",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/solarized-dark/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/solarized-dark/solarized-dark.gth"
+  },
+  {
+    "name": "solarized-light",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/solarized-light/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/solarized-light/solarized-light.gth"
   },
   {
     "name": "synthwave",
@@ -116,7 +457,7 @@
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/synthwave/img3.jpg",
     "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/synthwave/icon.png",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/synthwave/readme.md",
-    "version": 1,
+    "version": 2,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/synthwave/SynthWave.gth"
   },
@@ -127,8 +468,19 @@
     "image3": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/tokyo-night/img3.jpg",
     "icon": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/tokyo-night/icon.png",
     "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/tokyo-night/readme.md",
-    "version": 1,
+    "version": 2,
     "devname": "ghost",
     "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/tokyo-night/Tokyo Night.gth"
+  },
+  {
+    "name": "vscode-dark",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "icon": "",
+    "doc": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/vscode-dark/readme.md",
+    "version": 1,
+    "devname": "ghost",
+    "linkdownload": "https://raw.githubusercontent.com/HanzoDev1375/ghostidetheme/main/vscode-dark/vscode-dark.gth"
   }
 ]
